@@ -1,7 +1,7 @@
-QUEST_JOBSTEP_20150317_000001	$Bokor. You’ve chosen a difficult path. {nl}Refer to the instructions in your Adventure Journal and make your own doll.
-QUEST_JOBSTEP_20150317_000002	$You must make a doll by yourself. {nl}Check your Adventure Journal to see how you can make the doll. 
-QUEST_JOBSTEP_20150317_000003	{memo X}Congratulations, a new Bokor is born. {nl}When I first chose the path of a Bokor, I started by creating a doll of my own. 
-QUEST_JOBSTEP_20150317_000004	$Peltasta Master
+QUEST_JOBSTEP_20150317_000001	$Bokor. Você escolheu um camindo difícil. {nl}Siga as intruções em seu Adventure Journal e faça seu próprio boneco.
+QUEST_JOBSTEP_20150317_000002	$Você deve fazer um boneco sozinho. {nl}Confira seu Adventure Journal para ver como você pode fazer um boneco. 
+QUEST_JOBSTEP_20150317_000003	{memo X}Parabéns, um novo Bokor surgiu. {nl}Quando eu escolhi ser um Bokor, eu comecei por criar um boneco de mim mesmo.
+QUEST_JOBSTEP_20150317_000004	$Mestre Peltasta
 QUEST_JOBSTEP_20150317_000005	{memo X}$If you want to receive my teachings then you have to prove your worth first.{nl}Here’s a challenge: Defeat some Vubbes on the 1st Floor of the Crystal Mine.
 QUEST_JOBSTEP_20150317_000006	$How can you bear the title of Peltasta if you can't even handle that much? 
 QUEST_JOBSTEP_20150317_000007	$Good. {nl}I hope your new growth leads to you saving the world. 
@@ -3118,21 +3118,21 @@ QUEST_JOBSTEP_20150803_003117	You've collected the keepsakes with strong regrets
 QUEST_JOBSTEP_20150803_003118	Meet Vaidotas at Siauliai Miners' Village
 QUEST_JOBSTEP_20150803_003119	Vaidotas told you that in order to investigate Crystal Mine, he needs the Orb Recorder of Past Memories. Obtain the Orb Recorder of Past Memories from the Chronomancer Master.
 QUEST_JOBSTEP_20150803_003120	You've borrowed the orb that records the memories of the past. Return to Vaidotas.
-QUEST_JOBSTEP_20150803_003121	You've obtained the orb that records the memories of the past. Talk with Vaidotas.
-QUEST_JOBSTEP_20150803_003122	Vaidotas wants you to investigate the incident that occurred in Crystal Mine. With the glass orb that reflects the past which the Chronomancer Master gave to you, accomplish the exploration rate 100% in all regions of the 1st and 2nd district of Crystal Mine.
-QUEST_JOBSTEP_20150803_003123	The memories of Crystal Mine are recorded in the orb. Return to Vaidotas.
-QUEST_JOBSTEP_20150803_003124	Give the present secretly to the Scout Master
-QUEST_JOBSTEP_20150803_003125	The Rogue Master wants to give a surprise present to the Scout Master who once was very close to him. Find the Scout Master in Gateway of Great King and put the present secretly in his pocket.
-QUEST_JOBSTEP_20150803_003126	You've succeeded putting the present secretly without being detected. Return to the Rogue Master.
-QUEST_JOBSTEP_20150803_003127	Search for the traces of Lydia Schaffen
+QUEST_JOBSTEP_20150803_003121	Você adquiriu o orbe que guarda memórias do passado. Converse com Vaidotas.
+QUEST_JOBSTEP_20150803_003122	Vaidotas quer que você investigue o incidente ocorrido em Crystal Mine. Com o orbe de vidro que reflete o passado que o Chronomancer Master lhe deu, complete 100% da taxa de exploração em todas as regiões do 1º e 2º distrito da Crystal Mine.
+QUEST_JOBSTEP_20150803_003123	As memórias da Crystal Mine estão gravadas no orbe. Volte para Vaidotas.
+QUEST_JOBSTEP_20150803_003124	Entregue o presente secretamente ao Scout Master
+QUEST_JOBSTEP_20150803_003125	O Rogue Master Quer dar um presente surpresa ao Scout Master, o qual era muito próximo dele. Encontre o Scout Master no Portão do Grande Rei e coloque o presente secretamente em seu bolso.
+QUEST_JOBSTEP_20150803_003126	Você conseguiu colocar o presente secretamente sem ser detectado. Retorne ao Rogue Master.
+QUEST_JOBSTEP_20150803_003127	Procure pelos traços de Lydia Schaffen
 QUEST_JOBSTEP_20150803_003128	The Fletcher Master wants to look for the bow which the first the Fletcher Master made for Lydia Schaffen. Find the bow of the first Flectcher Master from 31_1 of Canyon Area.
 QUEST_JOBSTEP_20150803_003129	Give them to the Fletcher Master
 QUEST_JOBSTEP_20150803_003130	You've found the bow of the first Fletcher Master. Return to the Fletcher Master.
 QUEST_JOBSTEP_20150908_003131	Give the Sappers Master's item to people of Klaipeda!
-QUEST_JOBSTEP_20150908_003132	Collect a donation and deliver it to the Cleric Master!
+QUEST_JOBSTEP_20150908_003132	Colete uma doação e a entrengue para o Clerigo Mestre!
 QUEST_JOBSTEP_20150908_003133	Cure the patient in Siauliai Miners' Village!
-QUEST_JOBSTEP_20150908_003134	The cat is showing interest!
+QUEST_JOBSTEP_20150908_003134	O gato está mostrando interesse!
 QUEST_JOBSTEP_20150908_003135	Put the Sun Jar on the place which protected by Chapparition
-QUEST_JOBSTEP_20150908_003136	It's an empty box
-QUEST_JOBSTEP_20150908_003137	Explaining the situation
-QUEST_JOBSTEP_20150908_003138	Explaining what you heard
+QUEST_JOBSTEP_20150908_003136	É uma caixa vazia
+QUEST_JOBSTEP_20150908_003137	Explicando a situação
+QUEST_JOBSTEP_20150908_003138	Explicando oque você ouviu
